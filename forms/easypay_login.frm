@@ -9,12 +9,12 @@ typeid:19,
 uuid:"A414A45A-F78D-410D-A7F0-1C79C706562E"
 },
 {
-cssPosition:"222,-1,-1,234,80,30",
+cssPosition:"222,-1,-1,232,80,30",
 json:{
 cssPosition:{
 bottom:"-1",
 height:"30",
-left:"234",
+left:"232",
 right:"-1",
 top:"222",
 width:"80"
