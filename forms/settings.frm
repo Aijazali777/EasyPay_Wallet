@@ -1,6 +1,5 @@
 customProperties:"formComponent:false,\
 useCssPosition:true",
-dataSource:"db:/example_data/easypay",
 encapsulation:108,
 items:[
 {
