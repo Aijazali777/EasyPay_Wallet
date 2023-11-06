@@ -40,6 +40,9 @@ containedForm:{
 datalabel_14:{
 
 },
+h_lbl_about_417:{
+
+},
 h_lbl_about_copy417:{
 customProperties:"methods:{\
 onActionMethodID:{\
@@ -56,49 +59,16 @@ parameters:[\
 onActionMethodID:"E621659D-557E-4D35-97FD-0BCEDB235EE7"
 },
 h_lbl_contact_copy1014:{
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_contact'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
-onActionMethodID:"E621659D-557E-4D35-97FD-0BCEDB235EE7"
+customProperties:""
 },
 h_lbl_home_copy479:{
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_home'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
-onActionMethodID:"E621659D-557E-4D35-97FD-0BCEDB235EE7"
+customProperties:""
 },
 h_lbl_login_copy551:{
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_login'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
-onActionMethodID:"E621659D-557E-4D35-97FD-0BCEDB235EE7"
+customProperties:""
+},
+header_image:{
+
 },
 imagemedia_1_copy381_copy171:{
 
@@ -116,6 +86,9 @@ label_19:{
 
 },
 lbl_mywallet_header_copy195_copy326:{
+
+},
+lbl_refresh:{
 
 },
 svy_form:"31312F6E-0F41-4968-BAAD-9629D6E56EEB"
@@ -453,7 +426,7 @@ location:{
 x:1,
 y:1
 },
-media:"29A56903-BC43-40D8-BF26-F093533B686F"
+media:null
 },
 location:"1,1",
 name:"imagelabel_copy18",

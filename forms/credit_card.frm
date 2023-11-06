@@ -34,7 +34,7 @@ right:"0",
 top:"0",
 width:"333"
 },
-media:"FA660CA2-25C2-4B1B-9446-491F9930ACE2",
+media:null,
 styleClass:"full-size"
 },
 name:"imagelabel_2",

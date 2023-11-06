@@ -4,14 +4,14 @@ dataSource:"db:/example_data/easypay",
 encapsulation:108,
 items:[
 {
-cssPosition:"63,10,-1,-1,30,30",
+cssPosition:"60,10,-1,-1,30,30",
 json:{
 cssPosition:{
 bottom:"-1",
 height:"30",
 left:"-1",
 right:"10",
-top:"63",
+top:"60",
 width:"30"
 },
 imageStyleClass:"fas fa-refresh",
@@ -29,14 +29,14 @@ typeid:19,
 uuid:"370C6900-456D-49AB-88DB-375BE16E141A"
 },
 {
-cssPosition:"63,30,-1,-1,209,30",
+cssPosition:"60,30,-1,-1,209,30",
 json:{
 cssPosition:{
 bottom:"-1",
 height:"30",
 left:"-1",
 right:"30",
-top:"63",
+top:"60",
 width:"209"
 },
 dataProviderID:"scopes.globals.currentDateTime",
@@ -67,14 +67,14 @@ typeid:47,
 uuid:"684207A5-C2D3-47AA-A053-7E04204A8B50"
 },
 {
-cssPosition:"63,-1,-1,21,180,30",
+cssPosition:"60,-1,-1,21,180,30",
 json:{
 cssPosition:{
 bottom:"-1",
 height:"30",
 left:"21",
 right:"-1",
-top:"63",
+top:"60",
 width:"180"
 },
 text:"The world at your fingertips!"
@@ -125,14 +125,14 @@ location:{
 x:1,
 y:1
 },
-media:"29A56903-BC43-40D8-BF26-F093533B686F",
+media:null,
 size:{
 height:80,
 width:140
 }
 },
 location:"1,1",
-name:"imagemedia_1_copy381_copy171",
+name:"header_image",
 size:"140,80",
 typeName:"bootstrapcomponents-imagemedia",
 typeid:47,
@@ -150,25 +150,14 @@ specname:\"servoycore-responsivecontainer\"\
 }",
 items:[
 {
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_home'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
+customProperties:"",
 json:{
 imageStyleClass:"fas fa-home",
 location:{
 x:1,
 y:1
 },
-onActionMethodID:"2140DF7C-9045-4A38-AF4A-2E5E096CFD14",
+onActionMethodID:null,
 styleClass:"clickable-hover",
 text:" Home"
 },
@@ -180,55 +169,33 @@ typeid:47,
 uuid:"23A35250-A986-4FC3-8010-7BDF95AD9468"
 },
 {
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_about'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
+customProperties:"",
 json:{
 imageStyleClass:"fas fa-address-card",
 location:{
 x:2,
 y:2
 },
-onActionMethodID:"2140DF7C-9045-4A38-AF4A-2E5E096CFD14",
+onActionMethodID:null,
 styleClass:"clickable-hover",
 text:" About"
 },
 location:"2,2",
-name:"h_lbl_about_copy417",
+name:"h_lbl_about_417",
 styleClass:"clickable-hover",
 typeName:"bootstrapcomponents-label",
 typeid:47,
 uuid:"3964A503-2720-4076-967F-5DF37AD73D64"
 },
 {
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_contact'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
+customProperties:"",
 json:{
 imageStyleClass:"fas fa-phone",
 location:{
 x:3,
 y:3
 },
-onActionMethodID:"2140DF7C-9045-4A38-AF4A-2E5E096CFD14",
+onActionMethodID:null,
 styleClass:"clickable-hover",
 text:" Contact"
 },
@@ -240,25 +207,14 @@ typeid:47,
 uuid:"7BA90DDB-6625-4206-9F68-CA900AA72809"
 },
 {
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_login'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
+customProperties:"",
 json:{
 imageStyleClass:"fas fa-user",
 location:{
 x:4,
 y:4
 },
-onActionMethodID:"2140DF7C-9045-4A38-AF4A-2E5E096CFD14",
+onActionMethodID:null,
 styleClass:"clickable-hover",
 text:" Login"
 },
@@ -279,14 +235,14 @@ typeid:51,
 uuid:"886CC851-26B5-4863-898C-23E9BFFF7ABB"
 },
 {
-cssPosition:"63,-1,-1,calc( 50% - 100px),200,30",
+cssPosition:"60,-1,-1,calc( 50% - 100px),200,30",
 json:{
 cssPosition:{
 bottom:"-1",
 height:"30",
 left:"calc( 50% - 100px)",
 right:"-1",
-top:"63",
+top:"60",
 width:"200"
 },
 text:"Stay Connected with myWallet!"

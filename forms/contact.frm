@@ -90,6 +90,9 @@ containedForm:{
 datalabel_14:{
 
 },
+h_lbl_about_417:{
+
+},
 h_lbl_about_copy417:{
 customProperties:"methods:{\
 onActionMethodID:{\
@@ -106,49 +109,16 @@ parameters:[\
 onActionMethodID:"A9D4D3C9-1789-48C1-B530-423C0BC59840"
 },
 h_lbl_contact_copy1014:{
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_contact'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
-onActionMethodID:"A9D4D3C9-1789-48C1-B530-423C0BC59840"
+customProperties:""
 },
 h_lbl_home_copy479:{
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_home'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
-onActionMethodID:"A9D4D3C9-1789-48C1-B530-423C0BC59840"
+customProperties:""
 },
 h_lbl_login_copy551:{
-customProperties:"methods:{\
-onActionMethodID:{\
-arguments:[\
-null,\
-\"'h_lbl_login'\"\
-],\
-parameters:[\
-\"event\",\
-\"param\"\
-]\
-}\
-}",
-onActionMethodID:"A9D4D3C9-1789-48C1-B530-423C0BC59840"
+customProperties:""
+},
+header_image:{
+
 },
 imagemedia_1_copy381_copy171:{
 
@@ -166,6 +136,9 @@ label_19:{
 
 },
 lbl_mywallet_header_copy195_copy326:{
+
+},
+lbl_refresh:{
 
 },
 svy_form:"31312F6E-0F41-4968-BAAD-9629D6E56EEB"

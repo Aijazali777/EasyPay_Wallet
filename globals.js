@@ -1,8 +1,11 @@
 /**
- * @properties={typeid:35,uuid:"3A203471-3311-4675-8FFF-586624970A39",variableType:-4}
- * type {Number}
+ * type {Number}}
+ *
+ * @type {Number}
+ *
+ * @properties={typeid:35,uuid:"74E3E38F-3652-4D86-9CFD-DB16B50A46DF",variableType:4}
  */
-var id;
+var id = 0;
 /**
  * @type {String}
  *

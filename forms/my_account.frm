@@ -200,7 +200,7 @@ right:"-1",
 top:"78",
 width:"180"
 },
-media:"265707D7-31CF-4F94-827F-A93F1C0ABBC8"
+media:null
 },
 name:"imagelabel_10",
 typeName:"servoyextra-imagelabel",

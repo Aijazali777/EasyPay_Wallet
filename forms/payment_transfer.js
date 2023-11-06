@@ -51,7 +51,7 @@ function transfer()
 	{
 		if(accountNumber != null)
 		{
-			var fsReceiver = datasources.db.example_data.mywallet.getFoundSet();
+			var fsReceiver = datasources.db.example_data.easypay.getFoundSet();
 			fsReceiver.loadAllRecords();
 			var fsReceiverCount = fsReceiver.getSize();
 			for(var i=1; i<=fsReceiverCount; i++)

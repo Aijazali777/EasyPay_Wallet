@@ -28,7 +28,7 @@ function onLogin(event)
 		if(globals.password != null)
 		{
 			elements.fld_password.removeStyleClass('invalid_alert');
-			var fs = datasources.db.example_data.mywallet.getFoundSet();
+			var fs = datasources.db.example_data.easypay.getFoundSet();
 			fs.loadAllRecords();
 			var fsCount = fs.getSize();
 			for(var i = 1; i <= fsCount; i++)

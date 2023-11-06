@@ -57,7 +57,7 @@ right:"0",
 top:"0",
 width:"333"
 },
-media:"C8DEB55E-A17B-4F7B-8F53-5DD111E26194",
+media:null,
 styleClass:"full-size"
 },
 name:"imagelabel_2",

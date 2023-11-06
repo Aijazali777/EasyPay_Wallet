@@ -271,7 +271,7 @@ location:{
 x:1,
 y:1
 },
-media:"29A56903-BC43-40D8-BF26-F093533B686F"
+media:null
 },
 location:"1,1",
 name:"imagelabel",
@@ -300,6 +300,9 @@ h_lbl_home_copy479:{
 
 },
 h_lbl_login_copy551:{
+
+},
+header_image:{
 
 },
 imagemedia_1_copy381_copy171:{

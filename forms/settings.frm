@@ -1,5 +1,6 @@
 customProperties:"formComponent:false,\
 useCssPosition:true",
+dataSource:"db:/example_data/easypay",
 encapsulation:108,
 items:[
 {
@@ -197,7 +198,7 @@ right:"0",
 top:"0",
 width:"333"
 },
-media:"1ECE1641-788F-4A50-AD96-36327AC6A9A1",
+media:null,
 styleClass:"full-size"
 },
 name:"imagelabel_2",
